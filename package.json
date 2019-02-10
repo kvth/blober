@@ -1,0 +1,20 @@
+{
+  "name": "@hamgom95/blob",
+  "version": "1.0.0",
+  "description": "downloadable text blob",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest *.spec.js"
+  },
+  "author": {
+    "name": "Kevin Thomas",
+    "email": "hamgom95@gmail.com"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC"
+}
